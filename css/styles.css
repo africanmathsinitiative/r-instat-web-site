@@ -321,7 +321,7 @@ tr:hover td:nth-child(4) {
 
 .blue-bar1 {
     height: 5px;
-    background-color: rgb(117, 168, 211);
+    /* background-color: rgb(117, 168, 211); */
     margin-bottom: 20px;
     margin-left: 10px;
     margin-right: 10px;
