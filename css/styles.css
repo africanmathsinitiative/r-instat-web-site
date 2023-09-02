@@ -342,7 +342,6 @@ tr:hover td:nth-child(4) {
     height: 5px;
     background-color: rgb(117, 168, 211);
     margin-bottom: 20px;
-    margin-left: 70px;
-    margin-right: 70px;
-    width: auto;
+    margin: auto;
+    width: 90%;
 }
