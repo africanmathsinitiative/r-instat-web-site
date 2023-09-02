@@ -98,14 +98,6 @@
     font-size: 25px;
 }
 
-.touch {
-    text-align: center;
-    margin-bottom: 10px;
-    margin-top: 20px;
-    font-size: 15px;
-    color: #333;
-}
-
 .table-container {
     max-height: 200px;
     overflow-y: auto;
@@ -191,14 +183,6 @@ tr:hover td:nth-child(4) {
     color: #333;
     /* Change the text color to red on hover */
     /* Add any other style changes you want for the hover effect */
-}
-
-.touch {
-    text-align: center;
-    margin-bottom: 10px;
-    margin-top: 20px;
-    font-size: 15px;
-    color: #333;
 }
 
 .developer {
@@ -319,15 +303,6 @@ tr:hover td:nth-child(4) {
     width: auto;
 }
 
-.blue-bar1 {
-    height: 5px;
-    /* background-color: rgb(117, 168, 211); */
-    margin-bottom: 20px;
-    margin-left: 10px;
-    margin-right: 10px;
-    width: 20%;
-}
-
 .container1 {
     position: relative; /* Parent container needs a positioning context */
     display: flex;
@@ -337,11 +312,3 @@ tr:hover td:nth-child(4) {
     margin-top: 15px;
     
   }
-
-.blue-bar2 {
-    height: 5px;
-    background-color: rgb(117, 168, 211);
-    margin-bottom: 20px;
-    margin: auto;
-    width: 88%;
-}
