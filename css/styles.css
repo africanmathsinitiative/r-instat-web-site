@@ -311,3 +311,34 @@ tr:hover td:nth-child(4) {
     margin-top: 15px;
     
   }
+
+  
+/* Style the accordion headers */
+.accordion-header {
+    background-color: #3498db;
+    color: #fff;
+    padding: 10px;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    transition: background-color 0.3s ease;
+}
+
+/* Style the plus/minus button */
+.toggle-button {
+    font-size: 25px;
+    font-weight: bold;
+    transition: transform 0.3s ease;
+}
+
+/* Style the accordion content (hidden by default) */
+.accordion-content {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease;
+}
+
+.accordion32{
+    margin-top: 10px;
+}
