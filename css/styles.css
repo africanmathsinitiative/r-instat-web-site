@@ -272,11 +272,11 @@ tr:hover td:nth-child(4) {
     margin-left: 20px;
 }
 
-.image img {
+.image .video {
     max-width: 100%;
     height: auto;
-    border-radius: 5px;
-    box-shadow: 10px 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    /* box-shadow: 10px 0 10px rgba(0, 0, 0, 0.1); */
 }
 
 .text {
