@@ -309,6 +309,7 @@ tr:hover td:nth-child(4) {
 /* Style the accordion headers */
 .accordion-header {
     background-color: #329be0;
+    height: 40px;
     color: #fff;
     padding: 10px;
     cursor: pointer;
