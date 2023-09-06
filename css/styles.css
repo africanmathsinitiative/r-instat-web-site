@@ -304,7 +304,6 @@ tr:hover td:nth-child(4) {
     margin-top: 15px;
     
   }
-
   
 /* Style the accordion headers */
 .accordion-header {
@@ -321,7 +320,7 @@ tr:hover td:nth-child(4) {
 
 /* Style the plus/minus button */
 .toggle-button {
-    font-size: 25px;
+    font-size: 22px;
     font-weight: bold;
     transition: transform 0.3s ease;
 }
