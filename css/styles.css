@@ -262,8 +262,8 @@ tr:hover td:nth-child(4) {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 1px 0 0 -0.5px;
-    margin: 0 0 0 -0.09px;
+    /* padding: 1px 0 0 -0.5px;
+    margin: 0 -0.09px 0 -0.09px; */
 }
 
 .image {
@@ -271,13 +271,6 @@ tr:hover td:nth-child(4) {
     margin-right: -0.09px;
     margin-left: 20px;
 }
-
-.image .video {
-    max-width: 100%;
-    height: auto;
-    border-radius: 8px;
-}
-
 .text {
     flex: 1;
     margin-right: 1px;
