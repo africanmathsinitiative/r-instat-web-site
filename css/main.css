@@ -88,6 +88,9 @@ ul li {
 	$Header
 ========================================================================== */
 #header {
+  height: auto; /* Allow for dynamic height */
+  padding: 15px 10px; /* Add padding for spacing */
+  box-sizing: border-box; /* Ensure padding doesn't affect width */
   position: fixed;
   top: 0; /* Keep the header at the top */
   width: 100%;
